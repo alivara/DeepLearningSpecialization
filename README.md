@@ -1,4 +1,4 @@
-# deep_learning
+# Deep Learning Specialisation
 The Jupyter files are from Deep Learning Specialisation Course By Andrew Ng which I have done the Assignments.
 I hope it would be usefull not for cheating :) for learning.
 

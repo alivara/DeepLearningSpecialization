@@ -28,15 +28,16 @@ Deep learning specialization projects
   * Apply optimization methods such as (Stochastic) Gradient Descent, Momentum, RMSProp and Adam
   * Use random minibatches to accelerate convergence and improve optimization
   * Regularization
+* Neural Style Transfer
+  *	Implement the neural style transfer algorithm 
+  *	Generate novel artistic images using your algorithm 
+  *	Define the style cost function for Neural Style Transfer
+  *	Define the content cost function for Neural Style Transfer
 
 
 
 
 
-*	
-  *	
-  *	
-  *	
 *	Neural Style Transfer
   *	Implement the neural style transfer algorithm 
   *	Generate novel artistic images using your algorithm 

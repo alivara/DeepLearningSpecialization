@@ -80,9 +80,9 @@
 *	Fine-tune a pre-trained transformer model to a custom dataset
 *	Implement a QA model in TensorFlow and PyTorch
 ## Transformer Network Application: Named-Entity Recognition
-     *	Use tokenizers and pre-trained models from the HuggingFace Library.
-     *	Fine-tune a pre-trained transformer model for Named-Entity Recognition
-*	Trigger Word Detection
-     *	Structure a speech recognition project
-     *	Synthesize and process audio recordings to create train/dev datasets
-     *	Train a trigger word detection model and make predictions
+*	Use tokenizers and pre-trained models from the HuggingFace Library.
+*	Fine-tune a pre-trained transformer model for Named-Entity Recognition
+##	Trigger Word Detection
+*	Structure a speech recognition project
+*	Synthesize and process audio recordings to create train/dev datasets
+*	Train a trigger word detection model and make predictions

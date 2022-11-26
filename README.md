@@ -24,10 +24,19 @@ Deep learning specialization projects
 * Initialization
   * Speed up the convergence of gradient descent
   * Increase the odds of gradient descent converging to a lower training (and generalization) error  
-*	Optimization Methods
-  *	Apply optimization methods such as (Stochastic) Gradient Descent, Momentum, RMSProp and Adam
-  *	Use random minibatches to accelerate convergence and improve optimization
-  *	Regularization
+* Optimization Methods
+  * Apply optimization methods such as (Stochastic) Gradient Descent, Momentum, RMSProp and Adam
+  * Use random minibatches to accelerate convergence and improve optimization
+  * Regularization
+
+
+
+
+
+*	
+  *	
+  *	
+  *	
 *	Neural Style Transfer
   *	Implement the neural style transfer algorithm 
   *	Generate novel artistic images using your algorithm 

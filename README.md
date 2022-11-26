@@ -33,25 +33,27 @@ Deep learning specialization projects
   *	Generate novel artistic images using your algorithm 
   *	Define the style cost function for Neural Style Transfer
   *	Define the content cost function for Neural Style Transfer
-
-
-
-
-
-*	Neural Style Transfer
-  *	Implement the neural style transfer algorithm 
-  *	Generate novel artistic images using your algorithm 
-  *	Define the style cost function for Neural Style Transfer
-  *	Define the content cost function for Neural Style Transfer
-*	Face Recognition
+* Face Recognition
   *	Differentiate between face recognition and face verification
   *	Implement one-shot learning to solve a face recognition problem
   *	Apply the triplet loss function to learn a network's parameters in the context of face recognition
   *	Explain how to pose face recognition as a binary classification problem
   *	Map face images into 128-dimensional encodings using a pretrained model
   *	Perform face verification and face recognition with these encodings
-*	Building Recurrent Neural Network
+* Building Recurrent Neural Network
   *	Define notation for building sequence models
+  *	Describe the architecture of a basic RNN
+  *	Identify the main components of an LSTM
+  *	Implement backpropagation through time for a basic RNN and an LSTM
+  *	Give examples of several types of RNN
+
+
+
+
+*	Face Recognition
+  
+*	Building Recurrent Neural Network
+ * Define notation for building sequence models
   *	Describe the architecture of a basic RNN
   *	Identify the main components of an LSTM
   *	Implement backpropagation through time for a basic RNN and an LSTM

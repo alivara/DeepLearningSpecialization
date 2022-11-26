@@ -1,23 +1,25 @@
 # Deep Learning specialization 
 ## Building your Deep Neural Network
-  * Use non-linear units like ReLU to improve your model
-  * Build a deeper neural network (with more than 1 hidden layer)
-  * Implement an easy-to-use neural network class
+* Use non-linear units like ReLU to improve your model
+* Build a deeper neural network (with more than 1 hidden layer)
+* Implement an easy-to-use neural network class
 * Deep Neural Network for Image Classification
-  * Build and train a deep L-layer neural network, and apply it to supervised learning
-* Logistic Regression with a Neural Network mindset
-  * Build the general architecture of a learning algorithm, including:
-    * Initializing parameters
-    * Calculating the cost function and its gradient
-    * Using an optimization algorithm (gradient descent) 
-    * Gather all three functions above into a main model function, in the right order.
-* Planar data classification with one hidden layer
-  * Implement a 2-class classification neural network with a single hidden layer
-  * Use units with a non-linear activation function, such as tanh
-  * Compute the cross-entropy loss
-  * Implement forward and backward propagation
-  * Gradient Checking
-  * Implement gradient checking to verify the accuracy of your backprop implementation.
+* Build and train a deep L-layer neural network, and apply it to supervised learning
+## Logistic Regression with a Neural Network mindset
+* Build the general architecture of a learning algorithm, including:
+  * Initializing parameters
+  * Calculating the cost function and its gradient
+  * Using an optimization algorithm (gradient descent) 
+  * Gather all three functions above into a main model function, in the right order.
+## Planar data classification with one hidden layer
+* Implement a 2-class classification neural network with a single hidden layer
+* Use units with a non-linear activation function, such as tanh
+* Compute the cross-entropy loss
+* Implement forward and backward propagation
+* Gradient Checking
+* Implement gradient checking to verify the accuracy of your backprop implementation.
+
+
 * Initialization
   * Speed up the convergence of gradient descent
   * Increase the odds of gradient descent converging to a lower training (and generalization) error  

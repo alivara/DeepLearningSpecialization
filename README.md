@@ -46,38 +46,26 @@ Deep learning specialization projects
   *	Identify the main components of an LSTM
   *	Implement backpropagation through time for a basic RNN and an LSTM
   *	Give examples of several types of RNN
-
-
-
-
-*	Face Recognition
-  
-*	Building Recurrent Neural Network
-     *	Define notation for building sequence models
-     *	Describe the architecture of a basic RNN
-     *	Identify the main components of an LSTM
-     *	Implement backpropagation through time for a basic RNN and an LSTM
-     *	Give examples of several types of RNN
 *	Transformer Network
-  *	Create positional encodings to capture sequential relationships in data
-  *	Calculate scaled dot-product self-attention with word embeddings
-  *	Implement masked multi-head attention
-  *	Build and train a Transformer model
+     *	Create positional encodings to capture sequential relationships in data
+     *	Calculate scaled dot-product self-attention with word embeddings
+     *	Implement masked multi-head attention
+     *	Build and train a Transformer model
 *	Character level language model - Dinosaurus Island
-  *	Store text data for processing using an RNN 
-  *	Build a character-level text generation model using an RNN
-  *	Sample novel sequences in an RNN
-  *	Explain the vanishing/exploding gradient problem in RNNs
-  *	Apply gradient clipping as a solution for exploding gradients
+     *	Store text data for processing using an RNN 
+     *	Build a character-level text generation model using an RNN
+     *	Sample novel sequences in an RNN
+     *	Explain the vanishing/exploding gradient problem in RNNs
+     *	Apply gradient clipping as a solution for exploding gradients
 * Transformer Pre-processing
-  * Create visualizations to gain intuition on positional encodings
-  * Visualize how positional encodings affect word embeddings
+     * Create visualizations to gain intuition on positional encodings
+     * Visualize how positional encodings affect word embeddings
 *	Emojify
-  *	Create an embedding layer in Keras with pre-trained word vectors
-  *	Explain the advantages and disadvantages of the GloVe algorithm
-  *	Describe how negative sampling learns word vectors more efficiently than other methods
-  *	Build a sentiment classifier using word embeddings
-  *	Build and train a more sophisticated classifier using an LSTM
+     *	Create an embedding layer in Keras with pre-trained word vectors
+     *	Explain the advantages and disadvantages of the GloVe algorithm
+     *	Describe how negative sampling learns word vectors more efficiently than other methods
+     *	Build a sentiment classifier using word embeddings
+     *	Build and train a more sophisticated classifier using an LSTM
 *	Improvise a Jazz Solo with an LSTM Network
   *	Apply an LSTM to a music generation task
   *	Generate your own jazz music with deep learning

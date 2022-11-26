@@ -54,10 +54,10 @@ Deep learning specialization projects
   
 *	Building Recurrent Neural Network
      *	Define notation for building sequence models
-  *	Describe the architecture of a basic RNN
-  *	Identify the main components of an LSTM
-  *	Implement backpropagation through time for a basic RNN and an LSTM
-  *	Give examples of several types of RNN
+     *	Describe the architecture of a basic RNN
+     *	Identify the main components of an LSTM
+     *	Implement backpropagation through time for a basic RNN and an LSTM
+     *	Give examples of several types of RNN
 *	Transformer Network
   *	Create positional encodings to capture sequential relationships in data
   *	Calculate scaled dot-product self-attention with word embeddings

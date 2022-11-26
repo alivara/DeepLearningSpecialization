@@ -6,13 +6,6 @@ Deep learning specialization projects
   * Use non-linear units like ReLU to improve your model
   * Build a deeper neural network (with more than 1 hidden layer)
   * Implement an easy-to-use neural network class
-    * CLAHub
-    * http://oss-watch.ac.uk/resources/cla
-    * http://contributoragreements.org/
-  * If commits should be squashed
-  * Whether there is a specific coding style to adhere to. (Generally contributors will match what they see within a project.)
-* Whether potential contr
-
 * Deep Neural Network for Image Classification
   * Build and train a deep L-layer neural network, and apply it to supervised learning
 * Logistic Regression with a Neural Network mindset

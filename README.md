@@ -67,25 +67,25 @@ Deep learning specialization projects
      *	Build a sentiment classifier using word embeddings
      *	Build and train a more sophisticated classifier using an LSTM
 *	Improvise a Jazz Solo with an LSTM Network
-  *	Apply an LSTM to a music generation task
-  *	Generate your own jazz music with deep learning
-  *	Use the flexible Functional API to create complex models
-  *	Neural Machine Translation
-  *	building a Neural Machine Translation (NMT) model to translate human-readable dates ("25th of June, 2009") into machine-readable dates ("2009-06-25"). 
-  *	using an attention model, one of the most sophisticated sequence-to-sequence models.
+     *	Apply an LSTM to a music generation task
+     *	Generate your own jazz music with deep learning
+     *	Use the flexible Functional API to create complex models
+     *	Neural Machine Translation
+     *	building a Neural Machine Translation (NMT) model to translate human-readable dates ("25th of June, 2009") into machine-readable dates ("2009-06-25"). 
+     *	using an attention model, one of the most sophisticated sequence-to-sequence models.
 *	Operations on Word Vectors
-  *	Explain how word embeddings capture relationships between words
-  *	Load pre-trained word vectors
-  *	Measure similarity between word vectors using cosine similarity
-  *	Use word embeddings to solve word analogy problems such as Man is to Woman as King is to __.
+     *	Explain how word embeddings capture relationships between words
+     *	Load pre-trained word vectors
+     *	Measure similarity between word vectors using cosine similarity
+     *	Use word embeddings to solve word analogy problems such as Man is to Woman as King is to __.
 *	Transformer Network Application: Question Answering
-  *	Perform extractive Question Answering 
-  *	Fine-tune a pre-trained transformer model to a custom dataset
-  *	Implement a QA model in TensorFlow and PyTorch
+     *	Perform extractive Question Answering 
+     *	Fine-tune a pre-trained transformer model to a custom dataset
+     *	Implement a QA model in TensorFlow and PyTorch
 *	Transformer Network Application: Named-Entity Recognition
-  *	Use tokenizers and pre-trained models from the HuggingFace Library.
-  *	Fine-tune a pre-trained transformer model for Named-Entity Recognition
+     *	Use tokenizers and pre-trained models from the HuggingFace Library.
+     *	Fine-tune a pre-trained transformer model for Named-Entity Recognition
 *	Trigger Word Detection
-  *	Structure a speech recognition project
-  *	Synthesize and process audio recordings to create train/dev datasets
-  *	Train a trigger word detection model and make predictions
+     *	Structure a speech recognition project
+     *	Synthesize and process audio recordings to create train/dev datasets
+     *	Train a trigger word detection model and make predictions

@@ -2,9 +2,9 @@
 Hi anyone, in this repository i will upload all the project which i have done on deep learning, and hope to help you by the idea of coding.
 Deep learning specialization projects
 *	Building your Deep Neural Network
-        *	Use non-linear units like ReLU to improve your model
-        *	Build a deeper neural network (with more than 1 hidden layer)
-   *	Implement an easy-to-use neural network class
+*	       Use non-linear units like ReLU to improve your model
+*	       Build a deeper neural network (with more than 1 hidden layer)
+*	       Implement an easy-to-use neural network class
 *	Deep Neural Network for Image Classification
 --	Build and train a deep L-layer neural network, and apply it to supervised learning
 -	Logistic Regression with a Neural Network mindset
